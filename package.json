@@ -1,0 +1,13 @@
+{
+  "name": "readability",
+  "version": "1.0.0",
+  "description": "",
+  "main": "readability.js",
+  "bin": "readability.js",
+  "author": "",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "jsdom": "latest",
+    "readability": "mozilla/readability"
+  }
+}
