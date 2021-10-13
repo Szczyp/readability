@@ -1,6 +1,6 @@
 {
   "name": "readability",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "stdin -> readability",
   "main": "readability.js",
   "bin": "readability.js",
