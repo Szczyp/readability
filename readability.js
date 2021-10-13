@@ -2,7 +2,7 @@
 
 const fs = require('fs');
 const JSDOM = require('jsdom').JSDOM;
-const Readability = require('readability');
+const { Readability } = require('@mozilla/readability');
 
 const html = fs.readFileSync(0, 'utf-8');
 const doc = new JSDOM(html);

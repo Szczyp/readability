@@ -1,13 +1,13 @@
 {
   "name": "readability",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.2",
+  "description": "stdin -> readability",
   "main": "readability.js",
   "bin": "readability.js",
-  "author": "",
+  "author": "Szczyp",
   "license": "GPL-3.0-or-later",
   "dependencies": {
     "jsdom": "latest",
-    "readability": "mozilla/readability"
+    "@mozilla/readability": "latest"
   }
 }
