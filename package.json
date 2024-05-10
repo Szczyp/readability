@@ -7,7 +7,7 @@
   "author": "Szczyp",
   "license": "GPL-3.0-or-later",
   "dependencies": {
-    "jsdom": "latest",
-    "@mozilla/readability": "latest"
+    "@mozilla/readability": "^0.5.0",
+    "jsdom": "^24.0.0"
   }
 }
